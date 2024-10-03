@@ -3,12 +3,13 @@
 For more information, such as the background of this dataset, dataset characteristics, file structure, and more, you can view the Readme file. So, here, I will not explain further.
 
 **Streamlit : https://air-quality-analysis-fk2q8agcynbwgbvzjohnrk.streamlit.app/**
-1. Connected VSCode to GitHub
+
+**1. Connected VSCode to GitHub**
 - Instal Git on PC
 - Then run by the terminal code (git init --> git remote add origin https://github.com/username/repository.git --> git add . --> git commit -m "Initial commit" --> git push -u origin main)
 - Then the data will be updated on GitHub account
   
-2. Project work cycle
+**2. Project work cycle**
 A. Data Wrangling:
 - Gathering data
 - Assessing data
@@ -23,7 +24,7 @@ D. Dashboard:
 - Make filter components on the dashboard
 - Complete the dashboard with various data visualizations
 
-3. Getting Started
+**3. Getting Started**
 - Download this project.
 - Open your favorite IDE like Jupyter Notebook or Google Colaboratory (but in here I will use Google Colab).
 - Create a New Notebook
@@ -46,7 +47,7 @@ D. Dashboard:
 ![image](https://github.com/user-attachments/assets/d009a539-8af9-4d38-a329-e6f4da4f5ab2)
 ![image](https://github.com/user-attachments/assets/6f5061a7-574c-4045-bca3-3557048c4050)
 
-5. Deploy Streamlit
+**5. Deploy Streamlit**
 - Connected GitHub Account with Streamlit by Streamlit Cloud
   ![image](https://github.com/user-attachments/assets/30980f16-a835-4a3d-b3b7-1f1d08cec23e)
 - Then clik "Create App" on the top right corner
