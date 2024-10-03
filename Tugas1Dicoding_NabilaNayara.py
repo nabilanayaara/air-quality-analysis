@@ -8,7 +8,7 @@ import streamlit as st
 st.title("Analisis Kualitas Udara di Shunyi")
 
 # Membaca dataset
-shunyi_data = pd.read_csv(r"C:\Users\ASUS\Documents\College\Bangkit\Course\PRSA_Data_20130301-20170228\PRSA_Data_Shunyi_20130301-20170228.csv")
+shunyi_data = pd.read_csv('data/PRSA_Data_Shunyi_20130301-20170228.csv')
 
 st.subheader("Data Awal:")
 st.write(shunyi_data.head())
